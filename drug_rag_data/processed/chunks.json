@@ -1,0 +1,345 @@
+[
+  {
+    "chunk_id": "amoxicillin::0::OVERVIEW",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "OVERVIEW",
+    "text": "# AMOXICILLIN - Penicillin-class Antibiotic\nSource: DailyMed (NIH/NLM) - Amoxicillin Capsules/Tablets/Oral Suspension, Initial U.S. Approval 1974\nURL: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::1::INDICATIONS_AND_USAGE",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "INDICATIONS AND USAGE",
+    "text": "Penicillin-class antibacterial indicated for infections due to susceptible strains: ear, nose, throat, genitourinary tract, skin/skin structure, lower respiratory tract infections. Also used in combination regimens for H. pylori infection and duodenal ulcer disease (with clarithromycin + a PPI, e.g. lansoprazole).\nShould only be used to treat/prevent infections proven or strongly suspected to be bacterial, to limit development of drug-resistant bacteria.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::2::CONTRAINDICATIONS",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "CONTRAINDICATIONS",
+    "text": "- Serious hypersensitivity reaction (e.g., anaphylaxis, Stevens-Johnson syndrome) to amoxicillin or other beta-lactam antibacterials (penicillins, cephalosporins).\n- History of allergic reaction to any penicillin.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::3::WARNINGS_AND_PRECAUTIONS",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "WARNINGS AND PRECAUTIONS",
+    "text": "- Serious, occasionally fatal hypersensitivity (anaphylactic) reactions reported with penicillin therapy \u2014 more frequent with parenteral therapy but has occurred with oral penicillins.\n- Drug-Induced Enterocolitis Syndrome (DIES).\n- Clostridioides difficile-associated diarrhea (class warning for antibiotics).\n- High percentage of mononucleosis patients receiving amoxicillin develop an erythematous rash \u2014 avoid use if mono suspected.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::4::DRUG_INTERACTIONS",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "DRUG INTERACTIONS",
+    "text": "- **Probenecid**: decreases renal tubular secretion of amoxicillin \u2192 increased and prolonged amoxicillin blood levels.\n- **Oral anticoagulants (e.g., warfarin)**: appropriate monitoring needed when co-prescribed; anticoagulant dose adjustments may be necessary to maintain desired anticoagulation level.\n- **Allopurinol**: concurrent use increases incidence of rash vs. amoxicillin alone (mechanism unclear \u2014 may relate to hyperuricemia).\n- **Combined oral contraceptives (estrogen/progesterone)**: amoxicillin may affect gut flora, reducing estrogen reabsorption and potentially reducing contraceptive efficacy.\n- **Chloramphenicol, macrolides, sulfonamides, tetracyclines**: may interfere with amoxicillin's bactericidal (penicillin) effect in vitro; clinical significance not well documented \u2014 theoretical concern with bacteriostatic + bactericidal combination.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::5::DOSAGE_AND_ADMINISTRATION",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "DOSAGE AND ADMINISTRATION",
+    "text": "Adults: 750-1750 mg/day in divided doses every 8-12 hours (dose depends on infection type/severity).\nRenal impairment: no dose reduction needed unless severe impairment. GFR <30 mL/min should NOT receive the 875 mg tablet; adjusted regimens required for GFR 10-30 mL/min and dialysis patients.\nH. pylori regimen (with lansoprazole/clarithromycin): 1 gram amoxicillin three times daily (q8h) for 14 days.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::6::ADVERSE_REACTIONS",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "ADVERSE REACTIONS",
+    "text": "Diarrhea, nausea, vomiting, rash; in combination therapy (with lansoprazole), most frequent reported were diarrhea (8%) and headache (7%).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "amoxicillin::7::LABORATORY_MONITORING",
+    "drug": "AMOXICILLIN - Penicillin-class Antibiotic",
+    "section": "LABORATORY MONITORING",
+    "text": "Periodic assessment of renal, hepatic, hematopoietic function during prolonged therapy. Patients with gonorrhea should have serologic testing for syphilis at diagnosis and follow-up at 3 months.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=843f6053-63d9-47d2-81f1-b6aa78a7c20c"
+  },
+  {
+    "chunk_id": "atorvastatin::0::OVERVIEW",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "OVERVIEW",
+    "text": "# ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)\nSource: DailyMed (NIH/NLM), setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e\nURL: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::1::INDICATIONS_AND_USAGE",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "INDICATIONS AND USAGE",
+    "text": "HMG-CoA reductase inhibitor (statin) indicated to reduce risk of MI, stroke, revascularization, and angina in adults with CHD risk factors or established CHD; as adjunct to diet for primary hyperlipidemia, HeFH (age 10+), HoFH (age 10+, with other LDL-lowering therapies), dysbetalipoproteinemia, and hypertriglyceridemia.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::2::CONTRAINDICATIONS",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "CONTRAINDICATIONS",
+    "text": "- Acute liver failure or decompensated cirrhosis.\n- Hypersensitivity to atorvastatin or any excipient.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::3::WARNINGS_AND_PRECAUTIONS",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "WARNINGS AND PRECAUTIONS",
+    "text": "- **Myopathy/Rhabdomyolysis**: risk factors are age >=65, uncontrolled hypothyroidism, renal impairment, concomitant interacting drugs, higher dose. Discontinue if markedly elevated CK or myopathy suspected.\n- **Immune-Mediated Necrotizing Myopathy (IMNM)**: rare autoimmune myopathy, can persist after discontinuation.\n- **Hepatic dysfunction**: transaminase elevations; contraindicated in acute liver failure/decompensated cirrhosis.\n- Increases in HbA1c/fasting glucose reported.\n- Increased hemorrhagic stroke risk at 80mg dose in patients with recent hemorrhagic stroke (SPARCL trial).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::4::DRUG_INTERACTIONS",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "DRUG INTERACTIONS",
+    "text": "**Not recommended concomitantly** (myopathy/rhabdo risk): cyclosporine, gemfibrozil, tipranavir+ritonavir, glecaprevir+pibrentasvir.\n**Dose caps due to interaction:**\n- Clarithromycin or itraconazole: do not exceed atorvastatin 20 mg/day.\n- Saquinavir+ritonavir, darunavir+ritonavir, fosamprenavir (+/- ritonavir), elbasvir+grazoprevir, letermovir: do not exceed 20 mg/day.\n- Nelfinavir: do not exceed 40 mg/day.\n**Risk/benefit consideration needed:** lopinavir+ritonavir, simeprevir, ledipasvir+sofosbuvir, niacin (>=1g/day), other fibrates, colchicine.\n**Grapefruit juice**: avoid >1.2 L/day \u2014 raises atorvastatin plasma levels, increases myopathy risk.\n**Rifampin**: reduces atorvastatin levels via CYP3A4 induction; administer SIMULTANEOUSLY (not staggered) to avoid loss of efficacy.\n**Atorvastatin's effect on other drugs**: increases oral contraceptive (norethindrone/ethinyl estradiol) levels; increases digoxin plasma levels \u2014 monitor digoxin patients. No clinically significant effect on warfarin prothrombin time.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::5::ADVERSE_REACTIONS_5_any_dose_vs_placebo_",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "ADVERSE REACTIONS (>=5%, any dose vs placebo)",
+    "text": "Nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), UTI (5.7%).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::6::DOSAGE_AND_ADMINISTRATION",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "DOSAGE AND ADMINISTRATION",
+    "text": "Adults: start 10-20 mg once daily (up to 40mg if needing >45% LDL reduction); range 10-80 mg once daily, with or without food. Reassess LDL-C at 4 weeks.\nPediatric HeFH (10-17y): start 10 mg/day, range 10-20mg.\nPediatric HoFH (10y+): start 10-20mg/day, range 10-80mg.\nRenal impairment: no dosage adjustment needed (renal disease doesn't affect atorvastatin plasma levels), but renal impairment IS a myopathy risk factor requiring monitoring.\nHepatic impairment: contraindicated in acute liver failure/decompensated cirrhosis; markedly increased exposure in chronic alcoholic liver disease (Child-Pugh A: 4x Cmax/AUC; Child-Pugh B: ~16x Cmax, 11x AUC).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "atorvastatin::7::USE_IN_SPECIFIC_POPULATIONS",
+    "drug": "ATORVASTATIN CALCIUM - Statin (HMG-CoA Reductase Inhibitor)",
+    "section": "USE IN SPECIFIC POPULATIONS",
+    "text": "Discontinue when pregnancy recognized \u2014 may cause fetal harm (cholesterol synthesis inhibition). Breastfeeding not recommended during treatment.\nGeriatric (>=65): risk factor for myopathy \u2014 cautious dose selection, monitor.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7e8c8d2-b74e-6afd-e053-6394a90af83e"
+  },
+  {
+    "chunk_id": "lisinopril::0::OVERVIEW",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "OVERVIEW",
+    "text": "# LISINOPRIL - ACE Inhibitor (Antihypertensive)\nSource: DailyMed (NIH/NLM), Lisinopril Tablets, Initial U.S. Approval 1988\nURL: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::1::INDICATIONS_AND_USAGE",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "INDICATIONS AND USAGE",
+    "text": "ACE inhibitor indicated for treatment of hypertension in adults and pediatric patients 6 years and older; also used as adjunctive therapy for systolic heart failure with diuretics and (usually) digitalis.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::2::BOXED_WARNING_FETAL_TOXICITY",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "BOXED WARNING - FETAL TOXICITY",
+    "text": "When pregnancy is detected, discontinue lisinopril as soon as possible. Drugs acting directly on the renin-angiotensin system can cause injury and death to the developing fetus (2nd/3rd trimester use reduces fetal renal function, increases fetal/neonatal morbidity/death).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::3::CONTRAINDICATIONS",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "CONTRAINDICATIONS",
+    "text": "- History of angioedema or hypersensitivity related to previous ACE inhibitor treatment.\n- Hereditary or idiopathic angioedema.\n- **Contraindicated in combination with a neprilysin inhibitor** (e.g., sacubitril) \u2014 do not administer within 36 hours of switching to/from sacubitril/valsartan.\n- Do not co-administer aliskiren with lisinopril in patients with diabetes.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::4::WARNINGS_AND_PRECAUTIONS",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "WARNINGS AND PRECAUTIONS",
+    "text": "- Angioedema (face, extremities, lips, tongue, glottis, larynx) can occur at any time during treatment, including fatal reactions. Promptly discontinue and monitor until resolution. Higher rate reported in Black vs non-Black patients.\n- Patients on mTOR inhibitors (temsirolimus, sirolimus, everolimus) or neprilysin inhibitors: increased angioedema risk.\n- Symptomatic hypotension possible, especially in volume/salt-depleted patients (e.g., those on diuretics or dialysis).\n- Hyperkalemia risk \u2014 advise against potassium-containing salt substitutes without consulting physician.\n- Leukopenia/neutropenia \u2014 report signs of infection (sore throat, fever).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::5::DRUG_INTERACTIONS",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "DRUG INTERACTIONS",
+    "text": "- **Neprilysin inhibitors (sacubitril)**: contraindicated combination \u2014 angioedema risk.\n- **Aliskiren**: contraindicated in diabetic patients.\n- **Diuretics**: excessive hypotension risk, especially first dose, in volume-depleted patients.\n- **Oral antidiabetic agents / insulin**: increased hypoglycemia risk in first month of combined ACE inhibitor use \u2014 monitor closely.\n- **NSAIDs**: may reduce antihypertensive effect and worsen renal function (well-established ACE-inhibitor class interaction).\n- **Potassium-sparing diuretics, potassium supplements, salt substitutes**: hyperkalemia risk.\n- **Lithium**: ACE inhibitors can increase serum lithium levels (class effect, monitor lithium levels).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::6::DOSAGE_AND_ADMINISTRATION",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "DOSAGE AND ADMINISTRATION",
+    "text": "Hypertension (adults): initial 10 mg once daily; titrate up to 40 mg/day based on response. Patients on diuretics: start 5 mg once daily to reduce hypotension risk.\nPediatric (6y+, GFR >30 mL/min/1.73m2): initial 0.07 mg/kg (max 5mg) once daily.\nHeart failure: initiate 5 mg once daily; with hyponatremia (Na <130 mEq/L) start 2.5 mg once daily; titrate to max 40 mg once daily.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::7::ADVERSE_REACTIONS",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "ADVERSE REACTIONS",
+    "text": "Syncope (0.8% in combination product vs 0.1% lisinopril alone in some formulations), cough (ACE-inhibitor class effect), hyperkalemia, hypotension, renal function changes, angioedema (rare but serious).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "lisinopril::8::USE_IN_SPECIFIC_POPULATIONS",
+    "drug": "LISINOPRIL - ACE Inhibitor (Antihypertensive)",
+    "section": "USE IN SPECIFIC POPULATIONS",
+    "text": "Pregnancy: Contraindicated after first trimester \u2014 fetal toxicity (boxed warning).\nLactation: Advise against breastfeeding during treatment.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+  },
+  {
+    "chunk_id": "metformin::0::OVERVIEW",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "OVERVIEW",
+    "text": "# METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)\nSource: DailyMed (NIH/NLM), setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9\nURL: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::1::INDICATIONS_AND_USAGE",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "INDICATIONS AND USAGE",
+    "text": "Metformin Hydrochloride Tablets USP is indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::2::CONTRAINDICATIONS",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "CONTRAINDICATIONS",
+    "text": "Contraindicated in patients with:\n1. Renal disease or renal dysfunction (serum creatinine >=1.5 mg/dL [males], >=1.4 mg/dL [females] or abnormal creatinine clearance), including from cardiovascular collapse, acute MI, septicemia.\n2. Known hypersensitivity to metformin hydrochloride.\n3. Acute or chronic metabolic acidosis, including diabetic ketoacidosis.\nShould be temporarily discontinued for radiologic studies using intravascular iodinated contrast materials.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::3::WARNINGS_Lactic_Acidosis_Boxed_level_con",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "WARNINGS - Lactic Acidosis (Boxed-level concern)",
+    "text": "Lactic acidosis is a rare but serious complication, fatal in ~50% of cases when it occurs. Reported incidence ~0.03 cases/1000 patient-years. Risk increases with renal dysfunction, age >=80, hepatic impairment, hypoxic states (CHF, shock, MI), sepsis, dehydration, excessive alcohol intake, and use around IV contrast procedures or surgery. Symptoms: malaise, myalgias, respiratory distress, somnolence, abdominal distress, possible hypothermia/hypotension/bradyarrhythmias.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::4::DRUG_INTERACTIONS",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "DRUG INTERACTIONS",
+    "text": "- **Glyburide**: single-dose coadministration did not change metformin PK; glyburide AUC/Cmax decreased variably, clinical significance uncertain.\n- **Furosemide**: increased metformin Cmax (+22%) and AUC (+15%); furosemide Cmax/AUC decreased (-31%/-12%), half-life -32%.\n- **Nifedipine**: increased metformin Cmax (+20%) and AUC (+9%); enhances metformin absorption; minimal effect on nifedipine.\n- **Cationic drugs eliminated by renal tubular secretion** (amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, vancomycin): theoretical competition for renal tubular transport. Cimetidine specifically shown to increase metformin Cmax +60%, AUC +40% \u2014 dose adjustment/monitoring recommended.\n- **Hyperglycemia-inducing drugs**: thiazides/diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blockers, isoniazid \u2014 may cause loss of glycemic control.\n- **Alcohol**: potentiates effect of metformin on lactate metabolism \u2014 increases lactic acidosis risk. Patients cautioned against excessive alcohol intake.\n- No significant interaction found with propranolol or ibuprofen in single-dose studies.\n- Negligible plasma protein binding means low interaction risk with highly protein-bound drugs (salicylates, sulfonamides, chloramphenicol, probenecid).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::5::DOSAGE_AND_ADMINISTRATION",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "DOSAGE AND ADMINISTRATION",
+    "text": "Adults: usual starting dose 500 mg twice daily or 850 mg once daily with meals. Increase by 500 mg/week or 850 mg/2 weeks up to 2000 mg/day; max 2550 mg/day (divided doses, doses above 2000mg better tolerated 3x/day with meals).\nPediatrics (10-16 yrs): start 500 mg twice daily, max 2000 mg/day.\nRenal impairment: contraindicated if renal dysfunction present per Contraindications above; use minimum effective dose and monitor renal function regularly, especially in elderly (>=80 requires verified normal creatinine clearance before initiation).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::6::ADVERSE_REACTIONS_5_incidence_vs_placebo",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "ADVERSE REACTIONS (>5% incidence vs placebo)",
+    "text": "Diarrhea (53.2% vs 11.7%), Nausea/Vomiting (25.5% vs 8.3%), Flatulence (12.1% vs 5.5%), Asthenia, Indigestion, Abdominal discomfort, Headache. Diarrhea led to discontinuation in 6% of patients.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "metformin::7::USE_IN_SPECIFIC_POPULATIONS",
+    "drug": "METFORMIN HYDROCHLORIDE (Glucophage) - Antidiabetic (Biguanide)",
+    "section": "USE IN SPECIFIC POPULATIONS",
+    "text": "Pregnancy Category B (limited human data; insulin generally preferred). Excreted into breast milk in rats (human data lacking) \u2014 nursing decision should weigh infant hypoglycemia risk. Not recommended in patients <10 years old.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857efeaa-0070-4d82-bdee-f7eca1bc0cd9"
+  },
+  {
+    "chunk_id": "sertraline::0::OVERVIEW",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "OVERVIEW",
+    "text": "# SERTRALINE HYDROCHLORIDE - SSRI Antidepressant\nSource: DailyMed (NIH/NLM) - Sertraline Hydrochloride Tablets/Capsules\nURL: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::1::INDICATIONS_AND_USAGE",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "INDICATIONS AND USAGE",
+    "text": "Selective serotonin reuptake inhibitor (SSRI) indicated for: Major Depressive Disorder (MDD), Obsessive-Compulsive Disorder (OCD), Panic Disorder (PD), Posttraumatic Stress Disorder (PTSD), Social Anxiety Disorder (SAD), Premenstrual Dysphoric Disorder (PMDD).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::2::BOXED_WARNING",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "BOXED WARNING",
+    "text": "Suicidal Thoughts and Behaviors \u2014 increased risk in children, adolescents, and young adults (up to 24) taking antidepressants; monitor closely especially early in treatment and after dose changes.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::3::CONTRAINDICATIONS",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "CONTRAINDICATIONS",
+    "text": "- **MAOIs**: contraindicated while taking, or within 14 days of stopping, an MAOI (including linezolid and IV methylene blue) \u2014 risk of serotonin syndrome. Conversely, at least 14 days must elapse after stopping sertraline before starting an MAOI.\n- Do not initiate sertraline in a patient currently being treated with an MAOI such as linezolid or IV methylene blue.\n- Hypersensitivity to sertraline or excipients.\n- Concomitant use with pimozide is contraindicated (QT prolongation risk, per SSRI class labeling conventions).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::4::WARNINGS_AND_PRECAUTIONS_Serotonin_Syndr",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "WARNINGS AND PRECAUTIONS - Serotonin Syndrome",
+    "text": "Increased risk when co-administered with other serotonergic agents \u2014 **but can occur even when sertraline is used alone**. Serotonergic agents of concern: triptans, tricyclic antidepressants, opioids (e.g., fentanyl, tramadol), lithium, tryptophan, buspirone, amphetamines, St. John's Wort, and other drugs impairing serotonin metabolism (MAOIs).\nMonitor all patients for emergence of serotonin syndrome (agitation, hallucinations, tachycardia, hyperreflexia, incoordination, nausea/vomiting, diarrhea). Discontinue sertraline and any concomitant serotonergic agent immediately if symptoms occur.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::5::DRUG_INTERACTIONS",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "DRUG INTERACTIONS",
+    "text": "- **MAOIs**: contraindicated (serotonin syndrome) \u2014 see above.\n- **Other serotonergic drugs** (triptans, TCAs, opioids, lithium, tryptophan, buspirone, amphetamines, St. John's Wort): increased serotonin syndrome risk \u2014 use with caution, monitor.\n- **Bleeding risk**: SSRIs (including sertraline) increase bleeding risk via impaired serotonin-mediated platelet function. Concomitant aspirin, NSAIDs, other antiplatelet drugs, warfarin, and other anticoagulants may compound this risk \u2014 case-control/cohort studies show association with GI bleeding.\n- **CYP interactions**: sertraline is a moderate CYP2D6 inhibitor, may increase levels of CYP2D6 substrates.\n- Prior to initiating, screen patients for personal/family history of bipolar disorder/mania/hypomania (risk of triggering manic episode).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::6::DOSAGE_AND_ADMINISTRATION",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "DOSAGE AND ADMINISTRATION",
+    "text": "Gradually reduce dosage rather than stopping abruptly \u2014 discontinuation symptoms can occur. Specific starting doses vary by indication (typically 25-50 mg/day starting dose, titrated based on response, up to 200 mg/day max for most indications).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::7::ADVERSE_REACTIONS_notable_from_postmarke",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "ADVERSE REACTIONS (notable, from postmarketing)",
+    "text": "Serotonin syndrome, extrapyramidal symptoms (akathisia, dystonia), psychosis, acute renal failure, photosensitivity, severe cutaneous reactions (SJS, TEN), cerebrovascular spasm, vasculitis.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "sertraline::8::USE_IN_SPECIFIC_POPULATIONS",
+    "drug": "SERTRALINE HYDROCHLORIDE - SSRI Antidepressant",
+    "section": "USE IN SPECIFIC POPULATIONS",
+    "text": "Screen for bipolar disorder history before initiating (activation of mania/hypomania risk in antidepressant class).",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e09f580-d612-416c-a4a4-79a4411845b2"
+  },
+  {
+    "chunk_id": "warfarin::0::OVERVIEW",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "OVERVIEW",
+    "text": "# WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)\nSource: DailyMed (NIH/NLM) - Warfarin Sodium Tablets, Initial U.S. Approval 1954\nURL: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  },
+  {
+    "chunk_id": "warfarin::1::INDICATIONS_AND_USAGE",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "INDICATIONS AND USAGE",
+    "text": "Vitamin K antagonist indicated for:\n- Prophylaxis and treatment of venous thrombosis and its extension, pulmonary embolism (PE).\n- Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation (AF) and/or cardiac valve replacement.\n- Reduction in risk of death, recurrent MI, and thromboembolic events (stroke, systemic embolization) after myocardial infarction.\nNote: has no direct effect on an established thrombus, does not reverse ischemic tissue damage.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  },
+  {
+    "chunk_id": "warfarin::2::BOXED_WARNING_implied_by_can_cause_major",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "BOXED WARNING (implied by \"can cause major or fatal bleeding\")",
+    "text": "Warfarin sodium can cause major or fatal bleeding. Bleeding more likely in the first month of therapy. Risk factors: high intensity anticoagulation (INR >4.0), age >=65, history of highly variable INRs, history of GI bleeding, hypertension, cerebrovascular disease, anemia, malignancy, trauma, renal impairment, certain genetic factors, certain concomitant drugs, long duration of therapy.\nPerform regular INR monitoring in all treated patients.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  },
+  {
+    "chunk_id": "warfarin::3::MONITORING",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "MONITORING",
+    "text": "Narrow therapeutic index drug \u2014 action affected by other drugs and dietary vitamin K. Determine INR daily after initial dose until stable, then periodically (generally every 1-4 weeks). Additional INR checks needed whenever other medications are started/stopped/taken irregularly. Heparin increases INR.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  },
+  {
+    "chunk_id": "warfarin::4::DRUG_INTERACTIONS_Section_7_central_to_t",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "DRUG INTERACTIONS (Section 7 - central to this drug's hallucination-risk profile)",
+    "text": "Mechanisms: pharmacodynamic (synergism via impaired hemostasis or reduced clotting factor synthesis; competitive antagonism of vitamin K; hereditary resistance) and pharmacokinetic (enzyme induction/inhibition, altered plasma protein binding).\nCYP450 isozymes metabolizing warfarin: CYP2C9 (more potent S-enantiomer), CYP1A2 and CYP3A4 (R-enantiomer).\n- **Inhibitors of CYP2C9/1A2/3A4** \u2192 increase warfarin exposure \u2192 increase INR/bleeding risk.\n- **Inducers of CYP2C9/1A2/3A4** \u2192 decrease warfarin exposure \u2192 decrease INR/reduce anticoagulant effect (clot risk).\n- **Drugs increasing bleeding risk directly** (independent of PK): antiplatelet agents, NSAIDs, other anticoagulants \u2014 closely monitor when combined.\n- **Antibiotics/antifungals**: reports of INR changes exist even without consistent PK-level effects \u2014 closely monitor INR when starting/stopping any antibiotic or antifungal.\n- Botanical/herbal products can also affect INR \u2014 consult labeling of all concurrent drugs.\n- Note: exact drug-by-drug interaction lists in the full label's Table 2/Table 3 should always be consulted per-drug; this is a narrow-therapeutic-index drug where individualized dose titration and monitoring override any fixed rule.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  },
+  {
+    "chunk_id": "warfarin::5::ADVERSE_REACTIONS",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "ADVERSE REACTIONS",
+    "text": "Most common: fatal and nonfatal hemorrhage from any tissue or organ.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  },
+  {
+    "chunk_id": "warfarin::6::USE_IN_SPECIFIC_POPULATIONS",
+    "drug": "WARFARIN SODIUM - Anticoagulant (Vitamin K Antagonist)",
+    "section": "USE IN SPECIFIC POPULATIONS",
+    "text": "Pregnancy: contraindicated except pregnant women with mechanical heart valves, where benefits may outweigh risks (warfarin can cause fetal harm).\nLactation: monitor breastfeeding infants for bruising/bleeding.\nRenal impairment: instruct patients to monitor INR more frequently.",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1b766b1-0327-48cd-ab01-e85038cf365f"
+  }
+]
