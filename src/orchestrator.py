@@ -16,6 +16,11 @@ from state import AgentState
 
 GROQ_AVAILABLE = bool(os.environ.get("GROQ_API_KEY"))
 
+# Model is env-configurable so provider deprecations are a config change, not a
+# code change. llama-3.3-70b-versatile was decommissioned 2026-08-16; Groq's
+# recommended replacement is openai/gpt-oss-120b (or qwen/qwen3.6-27b).
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
+
 DRUG_KEYWORDS = re.compile(
     r"\b(interact|interaction|take .* with|combin|contraindicat|dose|dosing|"
     r"metformin|atorvastatin|warfarin|lisinopril|sertraline|amoxicillin)\b",
@@ -42,7 +47,7 @@ def orchestrator(state: AgentState) -> dict:
 
     from langchain_groq import ChatGroq
 
-    llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
+    llm = ChatGroq(model=GROQ_MODEL, temperature=0)
     prompt = f"""You are routing a clinical question to the right specialist agent(s).
 
 Question: {query}

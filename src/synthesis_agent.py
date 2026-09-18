@@ -16,6 +16,11 @@ from state import AgentState
 
 GROQ_AVAILABLE = bool(os.environ.get("GROQ_API_KEY"))
 
+# Model is env-configurable so provider deprecations are a config change, not a
+# code change. llama-3.3-70b-versatile was decommissioned 2026-08-16; Groq's
+# recommended replacement is openai/gpt-oss-120b (or qwen/qwen3.6-27b).
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
+
 SYSTEM_PROMPT = """You are a clinical information synthesis assistant. You combine \
 findings from a drug-label retrieval agent and/or a web research agent into a single, \
 clear, well-organized answer.
@@ -55,7 +60,7 @@ def synthesis_agent(state: AgentState) -> dict:
 
     from langchain_groq import ChatGroq
 
-    llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.2, max_tokens=1000)
+    llm = ChatGroq(model=GROQ_MODEL, temperature=0.2, max_tokens=1000)
 
     context_parts = []
     if drug_findings:

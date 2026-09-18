@@ -46,7 +46,7 @@ scripted sequence of LLM calls.
 
 ## Why Groq + Tavily
 
-- **Groq** (`llama-3.3-70b-versatile`) powers the orchestrator's routing
+- **Groq** (`openai/gpt-oss-120b`, override with `GROQ_MODEL`) powers the orchestrator's routing
   decision and the synthesis agent's final answer -- same provider as
   Project 2, for consistency and low-latency inference.
 - **Tavily** is the standard web-search tool in the LangChain/LangGraph
